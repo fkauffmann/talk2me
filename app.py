@@ -9,9 +9,13 @@ import os
 import time
 
 #--------------------------------------------------------------
+# Talk2Me
 #
+# A very basic interactive voice-based Q&A system
+# using OLLAMA and a local LLM
 #
-#
+# History
+# - 2025.01.23: Initial version
 #--------------------------------------------------------------
 
 mixer.init()
