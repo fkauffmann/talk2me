@@ -10,6 +10,8 @@ Using this transcribed text, the script generates a prompt for a local Large Lan
 
 After receiving the LLM's generated response, the text is converted to an MP3 audio file, which is then played back using Pygame, creating a complete voice interaction loop.
 
+<img src="screenshot.png">
+
 ## Installation
 
 ### 1. Install OLLAMA
